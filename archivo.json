@@ -1,0 +1,2559 @@
+{
+   "Partidos_Jugados":[
+{
+  "total_matches_played": 376,
+  "team_name": "Aston Villa FC"
+},
+{
+  "total_matches_played": 223,
+  "team_name": "Wolverhampton Wanderers FC"
+},
+{
+  "total_matches_played": 114,
+  "team_name": "Hull City AFC"
+},
+{
+  "total_matches_played": 262,
+  "team_name": "Burnley FC"
+},
+{
+  "total_matches_played": 450,
+  "team_name": "Manchester City FC"
+},
+{
+  "total_matches_played": 450,
+  "team_name": "Manchester United FC"
+},
+{
+  "total_matches_played": 222,
+  "team_name": "Brighton & Hove Albion FC"
+},
+{
+  "total_matches_played": 451,
+  "team_name": "Arsenal FC"
+},
+{
+  "total_matches_played": 266,
+  "team_name": "Stoke City FC"
+},
+{
+  "total_matches_played": 38,
+  "team_name": "Bolton Wanderers FC"
+},
+{
+  "total_matches_played": 380,
+  "team_name": "Southampton FC"
+},
+{
+  "total_matches_played": 304,
+  "team_name": "West Bromwich Albion FC"
+},
+{
+  "total_matches_played": 375,
+  "team_name": "Crystal Palace FC"
+},
+{
+  "total_matches_played": 38,
+  "team_name": "Cardiff City FC"
+},
+{
+  "total_matches_played": 304,
+  "team_name": "Leicester City FC"
+},
+{
+  "total_matches_played": 38,
+  "team_name": "Huddersfield Town FC"
+},
+{
+  "total_matches_played": 38,
+  "team_name": "Reading FC"
+},
+{
+  "total_matches_played": 114,
+  "team_name": "Leeds United FC"
+},
+{
+  "total_matches_played": 451,
+  "team_name": "Everton FC"
+},
+{
+  "total_matches_played": 412,
+  "team_name": "Newcastle United FC"
+},
+{
+  "total_matches_played": 414,
+  "team_name": "West Ham United FC"
+},
+{
+  "total_matches_played": 449,
+  "team_name": "Chelsea FC"
+},
+{
+  "total_matches_played": 450,
+  "team_name": "Tottenham Hotspur FC"
+},
+{
+  "total_matches_played": 38,
+  "team_name": "Blackburn Rovers FC"
+},
+{
+  "total_matches_played": 34,
+  "team_name": "Luton Town FC"
+},
+{
+  "total_matches_played": 109,
+  "team_name": "Sheffield United FC"
+},
+{
+  "total_matches_played": 266,
+  "team_name": "Swansea City AFC"
+},
+{
+  "total_matches_played": 228,
+  "team_name": "Norwich City FC"
+},
+{
+  "total_matches_played": 228,
+  "team_name": "Sunderland AFC"
+},
+{
+  "total_matches_played": 224,
+  "team_name": "Fulham FC"
+},
+{
+  "total_matches_played": 451,
+  "team_name": "Liverpool FC"
+},
+{
+  "total_matches_played": 38,
+  "team_name": "Middlesbrough FC"
+},
+{
+  "total_matches_played": 110,
+  "team_name": "Brentford FC"
+},
+{
+  "total_matches_played": 76,
+  "team_name": "Wigan Athletic FC"
+},
+{
+  "total_matches_played": 223,
+  "team_name": "AFC Bournemouth"
+},
+{
+  "total_matches_played": 114,
+  "team_name": "Queens Park Rangers FC"
+},
+{
+  "total_matches_played": 190,
+  "team_name": "Watford FC"
+},
+{
+  "total_matches_played": 72,
+  "team_name": "Nottingham Forest FC"
+}
+],
+  "histogramas":[
+{
+  "team_name": "Arsenal FC",
+  "season": "2011/2012",
+  "wins": 21,
+  "losses": 10
+},
+{
+  "team_name": "Tottenham Hotspur FC",
+  "season": "2011/2012",
+  "wins": 20,
+  "losses": 9
+},
+{
+  "team_name": "Manchester City FC",
+  "season": "2011/2012",
+  "wins": 28,
+  "losses": 5
+},
+{
+  "team_name": "Stoke City FC",
+  "season": "2011/2012",
+  "wins": 11,
+  "losses": 15
+},
+{
+  "team_name": "West Bromwich Albion FC",
+  "season": "2011/2012",
+  "wins": 13,
+  "losses": 17
+},
+{
+  "team_name": "Everton FC",
+  "season": "2011/2012",
+  "wins": 15,
+  "losses": 12
+},
+{
+  "team_name": "Manchester United FC",
+  "season": "2011/2012",
+  "wins": 28,
+  "losses": 5
+  
+},
+{
+  "team_name": "Liverpool FC",
+  "season": "2011/2012",
+  "wins": 14,
+  "losses": 14
+},
+{
+  "team_name": "Chelsea FC",
+  "season": "2011/2012",
+  "wins": 18,
+  "losses": 10
+},
+{
+  "team_name": "Swansea City AFC",
+  "season": "2011/2012",
+  "wins": 12,
+  "losses": 15
+},
+{
+  "team_name": "Sunderland AFC",
+  "season": "2011/2012",
+  "wins": 11,
+  "losses": 15
+},
+{
+  "team_name": "Newcastle United FC",
+  "season": "2011/2012",
+  "wins": 19,
+  "losses": 11
+},
+{
+  "team_name": "Aston Villa FC",
+  "season": "2011/2012",
+  "wins": 7,
+  "losses": 14
+},
+{
+  "team_name": "Norwich City FC",
+  "season": "2011/2012",
+  "wins": 12,
+  "losses": 15
+},
+{
+  "team_name": "Queens Park Rangers FC",
+  "season": "2011/2012",
+  "wins": 10,
+  "losses": 21
+},
+{
+  "team_name": "Fulham FC",
+  "season": "2011/2012",
+  "wins": 14,
+  "losses": 14
+},
+{
+  "team_name": "Blackburn Rovers FC",
+  "season": "2011/2012",
+  "wins": 8,
+  "losses": 23
+},
+{
+  "team_name": "Wigan Athletic FC",
+  "season": "2011/2012",
+  "wins": 11,
+  "losses": 17
+},
+{
+  "team_name": "Wolverhampton Wanderers FC",
+  "season": "2011/2012",
+  "wins": 5,
+  "losses": 23
+},
+{
+  "team_name": "Bolton Wanderers FC",
+  "season": "2011/2012",
+  "wins": 10,
+  "losses": 22
+},
+{
+  "team_name": "Arsenal FC",
+  "season": "2012/2013",
+  "wins": 21,
+  "losses": 7
+},
+{
+  "team_name": "Tottenham Hotspur FC",
+  "season": "2012/2013",
+  "wins": 21,
+  "losses": 8
+},
+{
+  "team_name": "Manchester City FC",
+  "season": "2012/2013",
+  "wins": 23,
+  "losses": 6
+},
+{
+  "team_name": "Stoke City FC",
+  "season": "2012/2013",
+  "wins": 9,
+  "losses": 14
+},
+{
+  "team_name": "West Bromwich Albion FC",
+  "season": "2012/2013",
+  "wins": 14,
+  "losses": 17
+},
+{
+  "team_name": "Everton FC",
+  "season": "2012/2013",
+  "wins": 16,
+  "losses": 7
+},
+{
+  "team_name": "Southampton FC",
+  "season": "2012/2013",
+  "wins": 9,
+  "losses": 15
+},
+{
+  "team_name": "Manchester United FC",
+  "season": "2012/2013",
+  "wins": 28,
+  "losses": 5
+},
+{
+  "team_name": "Liverpool FC",
+  "season": "2012/2013",
+  "wins": 16,
+  "losses": 9
+},
+{
+  "team_name": "Chelsea FC",
+  "season": "2012/2013",
+  "wins": 22,
+  "losses": 7
+},
+{
+  "team_name": "West Ham United FC",
+  "season": "2012/2013",
+  "wins": 12,
+  "losses": 16
+},
+{
+  "team_name": "Swansea City AFC",
+  "season": "2012/2013",
+  "wins": 11,
+  "losses": 14
+},
+{
+  "team_name": "Sunderland AFC",
+  "season": "2012/2013",
+  "wins": 9,
+  "losses": 17
+},
+{
+  "team_name": "Newcastle United FC",
+  "season": "2012/2013",
+  "wins": 11,
+  "losses": 19
+},
+{
+  "team_name": "Aston Villa FC",
+  "season": "2012/2013",
+  "wins": 10,
+  "losses": 17
+},
+{
+  "team_name": "Norwich City FC",
+  "season": "2012/2013",
+  "wins": 10,
+  "losses": 14
+},
+{
+  "team_name": "Queens Park Rangers FC",
+  "season": "2012/2013",
+  "wins": 4,
+  "losses": 21
+},
+{
+  "team_name": "Fulham FC",
+  "season": "2012/2013",
+  "wins": 11,
+  "losses": 17
+},
+{
+  "team_name": "Reading FC",
+  "season": "2012/2013",
+  "wins": 6,
+  "losses": 22
+},
+{
+  "team_name": "Wigan Athletic FC",
+  "season": "2012/2013",
+  "wins": 9,
+  "losses": 20
+},
+{
+  "team_name": "Arsenal FC",
+  "season": "2013/2014",
+  "wins": 24,
+  "losses": 7
+},
+{
+  "team_name": "Tottenham Hotspur FC",
+  "season": "2013/2014",
+  "wins": 21,
+  "losses": 11
+},
+{
+  "team_name": "Manchester City FC",
+  "season": "2013/2014",
+  "wins": 27,
+  "losses": 6
+},
+{
+  "team_name": "Stoke City FC",
+  "season": "2013/2014",
+  "wins": 13,
+  "losses": 14
+},
+{
+  "team_name": "West Bromwich Albion FC",
+  "season": "2013/2014",
+  "wins": 7,
+  "losses": 16
+},
+{
+  "team_name": "Crystal Palace FC",
+  "season": "2013/2014",
+  "wins": 13,
+  "losses": 19
+},
+{
+  "team_name": "Everton FC",
+  "season": "2013/2014",
+  "wins": 21,
+  "losses": 8
+},
+{
+  "team_name": "Southampton FC",
+  "season": "2013/2014",
+  "wins": 15,
+  "losses": 12
+},
+{
+  "team_name": "Manchester United FC",
+  "season": "2013/2014",
+  "wins": 19,
+  "losses": 12
+},
+{
+  "team_name": "Hull City AFC",
+  "season": "2013/2014",
+  "wins": 10,
+  "losses": 21
+},
+{
+  "team_name": "Liverpool FC",
+  "season": "2013/2014",
+  "wins": 26,
+  "losses": 6
+},
+{
+  "team_name": "Chelsea FC",
+  "season": "2013/2014",
+  "wins": 25,
+  "losses": 6
+},
+{
+  "team_name": "West Ham United FC",
+  "season": "2013/2014",
+  "wins": 11,
+  "losses": 20
+},
+{
+  "team_name": "Swansea City AFC",
+  "season": "2013/2014",
+  "wins": 11,
+  "losses": 18
+},
+{
+  "team_name": "Sunderland AFC",
+  "season": "2013/2014",
+  "wins": 10,
+  "losses": 20
+},
+{
+  "team_name": "Newcastle United FC",
+  "season": "2013/2014",
+  "wins": 15,
+  "losses": 19
+},
+{
+  "team_name": "Aston Villa FC",
+  "season": "2013/2014",
+  "wins": 10,
+  "losses": 20
+},
+{
+  "team_name": "Norwich City FC",
+  "season": "2013/2014",
+  "wins": 8,
+  "losses": 21
+},
+{
+  "team_name": "Cardiff City FC",
+  "season": "2013/2014",
+  "wins": 7,
+  "losses": 22
+},
+{
+  "team_name": "Fulham FC",
+  "season": "2013/2014",
+  "wins": 9,
+  "losses": 24
+},
+{
+  "team_name": "Arsenal FC",
+  "season": "2014/2015",
+  "wins": 22,
+  "losses": 7
+},
+{
+  "team_name": "Tottenham Hotspur FC",
+  "season": "2014/2015",
+  "wins": 19,
+  "losses": 12
+},
+{
+  "team_name": "Manchester City FC",
+  "season": "2014/2015",
+  "wins": 24,
+  "losses": 7
+},
+{
+  "team_name": "Leicester City FC",
+  "season": "2014/2015",
+  "wins": 11,
+  "losses": 19
+},
+{
+  "team_name": "Stoke City FC",
+  "season": "2014/2015",
+  "wins": 15,
+  "losses": 14
+},
+{
+  "team_name": "West Bromwich Albion FC",
+  "season": "2014/2015",
+  "wins": 11,
+  "losses": 16
+},
+{
+  "team_name": "Crystal Palace FC",
+  "season": "2014/2015",
+  "wins": 13,
+  "losses": 16
+},
+{
+  "team_name": "Everton FC",
+  "season": "2014/2015",
+  "wins": 12,
+  "losses": 15
+},
+{
+  "team_name": "Burnley FC",
+  "season": "2014/2015",
+  "wins": 7,
+  "losses": 19
+},
+{
+  "team_name": "Southampton FC",
+  "season": "2014/2015",
+  "wins": 18,
+  "losses": 14
+},
+{
+  "team_name": "Manchester United FC",
+  "season": "2014/2015",
+  "wins": 20,
+  "losses": 8
+},
+{
+  "team_name": "Hull City AFC",
+  "season": "2014/2015",
+  "wins": 8,
+  "losses": 19
+},
+{
+  "team_name": "Liverpool FC",
+  "season": "2014/2015",
+  "wins": 18,
+  "losses": 12
+},
+{
+  "team_name": "Chelsea FC",
+  "season": "2014/2015",
+  "wins": 26,
+  "losses": 3
+},
+{
+  "team_name": "West Ham United FC",
+  "season": "2014/2015",
+  "wins": 12,
+  "losses": 15
+},
+{
+  "team_name": "Swansea City AFC",
+  "season": "2014/2015",
+  "wins": 16,
+  "losses": 14
+},
+{
+  "team_name": "Sunderland AFC",
+  "season": "2014/2015",
+  "wins": 7,
+  "losses": 14
+},
+{
+  "team_name": "Newcastle United FC",
+  "season": "2014/2015",
+  "wins": 10,
+  "losses": 19
+},
+{
+  "team_name": "Aston Villa FC",
+  "season": "2014/2015",
+  "wins": 10,
+  "losses": 20
+},
+{
+  "team_name": "Queens Park Rangers FC",
+  "season": "2014/2015",
+  "wins": 8,
+  "losses": 24
+},
+{
+  "team_name": "Arsenal FC",
+  "season": "2015/2016",
+  "wins": 20,
+  "losses": 7
+},
+{
+  "team_name": "Tottenham Hotspur FC",
+  "season": "2015/2016",
+  "wins": 19,
+  "losses": 6
+},
+{
+  "team_name": "Manchester City FC",
+  "season": "2015/2016",
+  "wins": 19,
+  "losses": 10
+},
+{
+  "team_name": "Leicester City FC",
+  "season": "2015/2016",
+  "wins": 23,
+  "losses": 3
+},
+{
+  "team_name": "Stoke City FC",
+  "season": "2015/2016",
+  "wins": 14,
+  "losses": 15
+},
+{
+  "team_name": "West Bromwich Albion FC",
+  "season": "2015/2016",
+  "wins": 10,
+  "losses": 15
+},
+{
+  "team_name": "Crystal Palace FC",
+  "season": "2015/2016",
+  "wins": 11,
+  "losses": 18
+},
+{
+  "team_name": "Everton FC",
+  "season": "2015/2016",
+  "wins": 11,
+  "losses": 13
+},
+{
+  "team_name": "Southampton FC",
+  "season": "2015/2016",
+  "wins": 18,
+  "losses": 11
+},
+{
+  "team_name": "AFC Bournemouth",
+  "season": "2015/2016",
+  "wins": 11,
+  "losses": 18
+},
+{
+  "team_name": "Manchester United FC",
+  "season": "2015/2016",
+  "wins": 19,
+  "losses": 10
+},
+{
+  "team_name": "Liverpool FC",
+  "season": "2015/2016",
+  "wins": 16,
+  "losses": 10
+},
+{
+  "team_name": "Chelsea FC",
+  "season": "2015/2016",
+  "wins": 12,
+  "losses": 12
+},
+{
+  "team_name": "West Ham United FC",
+  "season": "2015/2016",
+  "wins": 16,
+  "losses": 8
+},
+{
+  "team_name": "Swansea City AFC",
+  "season": "2015/2016",
+  "wins": 12,
+  "losses": 15
+},
+{
+  "team_name": "Watford FC",
+  "season": "2015/2016",
+  "wins": 12,
+  "losses": 17
+},
+{
+  "team_name": "Sunderland AFC",
+  "season": "2015/2016",
+  "wins": 9,
+  "losses": 17
+},
+{
+  "team_name": "Newcastle United FC",
+  "season": "2015/2016",
+  "wins": 9,
+  "losses": 19
+},
+{
+  "team_name": "Aston Villa FC",
+  "season": "2015/2016",
+  "wins": 3,
+  "losses": 27
+},
+{
+  "team_name": "Norwich City FC",
+  "season": "2015/2016",
+  "wins": 9,
+  "losses": 22
+},
+{
+  "team_name": "Arsenal FC",
+  "season": "2016/2017",
+  "wins": 23,
+  "losses": 9
+},
+{
+  "team_name": "Tottenham Hotspur FC",
+  "season": "2016/2017",
+  "wins": 26,
+  "losses": 4
+},
+{
+  "team_name": "Manchester City FC",
+  "season": "2016/2017",
+  "wins": 23,
+  "losses": 6
+},
+{
+  "team_name": "Leicester City FC",
+  "season": "2016/2017",
+  "wins": 12,
+  "losses": 18
+},
+{
+  "team_name": "Stoke City FC",
+  "season": "2016/2017",
+  "wins": 11,
+  "losses": 16
+},
+{
+  "team_name": "West Bromwich Albion FC",
+  "season": "2016/2017",
+  "wins": 12,
+  "losses": 17
+},
+{
+  "team_name": "Crystal Palace FC",
+  "season": "2016/2017",
+  "wins": 12,
+  "losses": 21
+},
+{
+  "team_name": "Everton FC",
+  "season": "2016/2017",
+  "wins": 17,
+  "losses": 11
+},
+{
+  "team_name": "Burnley FC",
+  "season": "2016/2017",
+  "wins": 11,
+  "losses": 20
+},
+{
+  "team_name": "Southampton FC",
+  "season": "2016/2017",
+  "wins": 12,
+  "losses": 16
+},
+{
+  "team_name": "Middlesbrough FC",
+  "season": "2016/2017",
+  "wins": 5,
+  "losses": 20
+},
+{
+  "team_name": "AFC Bournemouth",
+  "season": "2016/2017",
+  "wins": 12,
+  "losses": 16
+},
+{
+  "team_name": "Manchester United FC",
+  "season": "2016/2017",
+  "wins": 18,
+  "losses": 5
+},
+{
+  "team_name": "Hull City AFC",
+  "season": "2016/2017",
+  "wins": 9,
+  "losses": 22
+},
+{
+  "team_name": "Liverpool FC",
+  "season": "2016/2017",
+  "wins": 22,
+  "losses": 6
+},
+{
+  "team_name": "Chelsea FC",
+  "season": "2016/2017",
+  "wins": 30,
+  "losses": 5
+},
+{
+  "team_name": "West Ham United FC",
+  "season": "2016/2017",
+  "wins": 12,
+  "losses": 17
+},
+{
+  "team_name": "Swansea City AFC",
+  "season": "2016/2017",
+  "wins": 12,
+  "losses": 21
+},
+{
+  "team_name": "Watford FC",
+  "season": "2016/2017",
+  "wins": 11,
+  "losses": 20
+},
+{
+  "team_name": "Sunderland AFC",
+  "season": "2016/2017",
+  "wins": 6,
+  "losses": 26
+},
+{
+  "team_name": "Arsenal FC",
+  "season": "2017/2018",
+  "wins": 19,
+  "losses": 13,
+  "Puesto": 6,
+    "Equipo": "Arsenal FC",
+    "PJ": 38,
+    "Victorias": "50%",
+    "GF": 74,
+    "GC": 51,
+    "DG": 23,
+    "Pts": 63
+},
+{
+  "team_name": "Tottenham Hotspur FC",
+  "season": "2017/2018",
+  "wins": 23,
+  "losses": 7,
+  "Puesto": 3,
+    "Equipo": "Tottenham Hotspur FC",
+    "PJ": 38,
+    "Victorias": "61%",
+    "GF": 74,
+    "GC": 36,
+    "DG": 38,
+    "Pts": 77
+},
+{
+  "team_name": "Manchester City FC",
+  "season": "2017/2018",
+  "wins": 32,
+  "losses": 2,
+  "Puesto": 1,
+    "Equipo": "Manchester City FC",
+    "PJ": 38,
+    "Victorias": "84%",
+    "GF": 106,
+    "GC": 27,
+    "DG": 79,
+    "Pts": 100
+},
+{
+  "team_name": "Leicester City FC",
+  "season": "2017/2018",
+  "wins": 12,
+  "losses": 15,
+  "Puesto": 9,
+    "Equipo": "Leicester City FC",
+    "PJ": 38,
+    "Victorias": "32%",
+    "GF": 56,
+    "GC": 60,
+    "DG": -4,
+    "Pts": 47
+},
+{
+  "team_name": "Stoke City FC",
+  "season": "2017/2018",
+  "wins": 7,
+  "losses": 19,
+  "Puesto": 19,
+    "Equipo": "Stoke City FC",
+    "PJ": 38,
+    "Victorias": "18%",
+    "GF": 35,
+    "GC": 68,
+    "DG": -33,
+    "Pts": 33
+},
+{
+  "team_name": "West Bromwich Albion FC",
+  "season": "2017/2018",
+  "wins": 6,
+  "losses": 19,
+  "Puesto": 20,
+    "Equipo": "West Bromwich Albion FC",
+    "PJ": 38,
+    "Victorias": "16%",
+    "GF": 31,
+    "GC": 56,
+    "DG": -25,
+    "Pts": 31
+},
+{
+  "team_name": "Crystal Palace FC",
+  "season": "2017/2018",
+  "wins": 11,
+  "losses": 16,
+  "Puesto": 11,
+    "Equipo": "Crystal Palace FC",
+    "PJ": 38,
+    "Victorias": "29%",
+    "GF": 45,
+    "GC": 55,
+    "DG": -10,
+    "Pts": 44
+},
+{
+  "team_name": "Everton FC",
+  "season": "2017/2018",
+  "wins": 13,
+  "losses": 15,
+  "Puesto": 8,
+    "Equipo": "Everton FC",
+    "PJ": 38,
+    "Victorias": "34%",
+    "GF": 44,
+    "GC": 58,
+    "DG": -14,
+    "Pts": 49
+},
+{
+  "team_name": "Burnley FC",
+  "season": "2017/2018",
+  "wins": 14,
+  "losses": 12,
+  "Puesto": 7,
+    "Equipo": "Burnley FC",
+    "PJ": 38,
+    "Victorias": "37%",
+    "GF": 36,
+    "GC": 39,
+    "DG": -3,
+    "Pts": 54
+},
+{
+  "team_name": "Southampton FC",
+  "season": "2017/2018",
+  "wins": 7,
+  "losses": 16,
+  "Puesto": 17,
+    "Equipo": "Southampton FC",
+    "PJ": 38,
+    "Victorias": "18%",
+    "GF": 37,
+    "GC": 56,
+    "DG": -19,
+    "Pts": 36
+},
+{
+  "team_name": "AFC Bournemouth",
+  "season": "2017/2018",
+  "wins": 11,
+  "losses": 16,
+  "Puesto": 12,
+    "Equipo": "AFC Bournemouth",
+    "PJ": 38,
+    "Victorias": "29%",
+    "GF": 45,
+    "GC": 61,
+    "DG": -16,
+    "Pts": 44
+},
+{
+  "team_name": "Manchester United FC",
+  "season": "2017/2018",
+  "wins": 25,
+  "losses": 7,
+  "Puesto": 2,
+    "Equipo": "Manchester United FC",
+    "PJ": 38,
+    "Victorias": "66%",
+    "GF": 68,
+    "GC": 28,
+    "DG": 40,
+    "Pts": 81
+},
+{
+  "team_name": "Liverpool FC",
+  "season": "2017/2018",
+  "wins": 21,
+  "losses": 5,
+  "Puesto": 4,
+    "Equipo": "Liverpool FC",
+    "PJ": 38,
+    "Victorias": "55%",
+    "GF": 84,
+    "GC": 38,
+    "DG": 46,
+    "Pts": 75
+},
+{
+  "team_name": "Chelsea FC",
+  "season": "2017/2018",
+  "wins": 21,
+  "losses": 10,
+  "Puesto": 5,
+    "Equipo": "Chelsea FC",
+    "PJ": 38,
+    "Victorias": "55%",
+    "GF": 62,
+    "GC": 38,
+    "DG": 24,
+    "Pts": 70
+},
+{
+  "team_name": "West Ham United FC",
+  "season": "2017/2018",
+  "wins": 10,
+  "losses": 16,
+  "Puesto": 13,
+    "Equipo": "West Ham United FC",
+    "PJ": 38,
+    "Victorias": "26%",
+    "GF": 48,
+    "GC": 68,
+    "DG": -20,
+    "Pts": 42
+},
+{
+  "team_name": "Swansea City AFC",
+  "season": "2017/2018",
+  "wins": 8,
+  "losses": 21,
+  "Puesto": 18,
+    "Equipo": "Swansea City AFC",
+    "PJ": 38,
+    "Victorias": "21%",
+    "GF": 28,
+    "GC": 56,
+    "DG": -28,
+    "Pts": 33
+},
+{
+  "team_name": "Watford FC",
+  "season": "2017/2018",
+  "wins": 11,
+  "losses": 19,
+  "Puesto": 14,
+    "Equipo": "Watford FC",
+    "PJ": 38,
+    "Victorias": "29%",
+    "GF": 44,
+    "GC": 64,
+    "DG": -20,
+    "Pts": 41
+},
+{
+  "team_name": "Newcastle United FC",
+  "season": "2017/2018",
+  "wins": 12,
+  "losses": 18,
+  "Puesto": 10,
+    "Equipo": "Newcastle United FC",
+    "PJ": 38,
+    "Victorias": "32%",
+    "GF": 39,
+    "GC": 47,
+    "DG": -8,
+    "Pts": 44
+},
+{
+  "team_name": "Brighton & Hove Albion FC",
+  "season": "2017/2018",
+  "wins": 9,
+  "losses": 16,
+  "Puesto": 15,
+    "Equipo": "Brighton Hove Albion FC",
+    "PJ": 38,
+    "Victorias": "24%",
+    "GF": 34,
+    "GC": 54,
+    "DG": -20,
+    "Pts": 40
+},
+{
+  "team_name": "Huddersfield Town FC",
+  "season": "2017/2018",
+  "wins": 9,
+  "losses": 19,
+  "Puesto": 16,
+    "Equipo": "Huddersfield Town FC",
+    "PJ": 38,
+    "Victorias": "24%",
+    "GF": 28,
+    "GC": 58,
+    "DG": -30,
+    "Pts": 37
+},
+{
+  "team_name": "Arsenal FC",
+  "season": "2019/2020",
+  "wins": 14,
+  "losses": 10,
+  "Puesto": 8,
+    "Equipo": "Arsenal FC",
+    "PJ": 38,
+    "Victorias": "37%",
+    "GF": 56,
+    "GC": 48,
+    "DG": 8,
+    "Pts": 56
+},
+{
+  "team_name": "Tottenham Hotspur FC",
+  "season": "2019/2020",
+  "wins": 16,
+  "losses": 11,
+  "Puesto": 6,
+    "Equipo": "Tottenham Hotspur FC",
+    "PJ": 38,
+    "Victorias": "42%",
+    "GF": 61,
+    "GC": 47,
+    "DG": 14,
+    "Pts": 59
+},
+{
+  "team_name": "Manchester City FC",
+  "season": "2019/2020",
+  "wins": 26,
+  "losses": 9,
+  "Puesto": 2,
+    "Equipo": "Manchester City FC",
+    "PJ": 38,
+    "Victorias": "68%",
+    "GF": 102,
+    "GC": 35,
+    "DG": 67,
+    "Pts": 81
+},
+{
+  "team_name": "Leicester City FC",
+  "season": "2019/2020",
+  "wins": 18,
+  "losses": 12,
+  "Puesto": 5,
+  "Equipo": "Leicester City FC",
+  "PJ": 38,
+  "Victorias": "47%",
+  "GF": 67,
+  "GC": 41,
+  "DG": 26,
+  "Pts": 62
+},
+{
+  "team_name": "Crystal Palace FC",
+  "season": "2019/2020",
+  "wins": 11,
+  "losses": 17,
+  "Puesto": 14,
+  "Equipo": "Crystal Palace FC",
+  "PJ": 38,
+  "Victorias": "29%",
+  "GF": 31,
+  "GC": 50,
+  "DG": -19,
+  "Pts": 43
+},
+{
+  "team_name": "Everton FC",
+  "season": "2019/2020",
+  "wins": 13,
+  "losses": 15,
+  "Puesto": 12,
+    "Equipo": "Everton FC",
+    "PJ": 38,
+    "Victorias": "34%",
+    "GF": 44,
+    "GC": 56,
+    "DG": -12,
+    "Pts": 49
+},
+{
+  "team_name": "Burnley FC",
+  "season": "2019/2020",
+  "wins": 15,
+  "losses": 14,
+  "Puesto": 10,
+    "Equipo": "Burnley FC",
+    "PJ": 38,
+    "Victorias": "39%",
+    "GF": 43,
+    "GC": 50,
+    "DG": -7,
+    "Pts": 54
+},
+{
+  "team_name": "Southampton FC",
+  "season": "2019/2020",
+  "wins": 15,
+  "losses": 16,
+  "Puesto": 11,
+    "Equipo": "Southampton FC",
+    "PJ": 38,
+    "Victorias": "39%",
+    "GF": 51,
+    "GC": 60,
+    "DG": -9,
+    "Pts": 52
+},
+{
+  "team_name": "AFC Bournemouth",
+  "season": "2019/2020",
+  "wins": 9,
+  "losses": 22,
+  "Puesto": 18,
+    "Equipo": "AFC Bournemouth",
+    "PJ": 38,
+    "Victorias": "24%",
+    "GF": 40,
+    "GC": 65,
+    "DG": -25,
+    "Pts": 34
+},
+{
+  "team_name": "Manchester United FC",
+  "season": "2019/2020",
+  "wins": 18,
+  "losses": 8,
+  "Puesto": 3,
+    "Equipo": "Manchester United FC",
+    "PJ": 38,
+    "% Victorias": "47%",
+    "GF": 66,
+    "GC": 36,
+    "DG": 30,
+    "Pts": 66
+},
+{
+  "team_name": "Liverpool FC",
+  "season": "2019/2020",
+  "wins": 32,
+  "losses": 3,
+  "Puesto": 1,
+    "Equipo": "Liverpool FC",
+    "PJ": 38,
+    "Victorias": "84%",
+    "GF": 85,
+    "GC": 33,
+    "DG": 52,
+    "Pts": 99
+},
+{
+  "team_name": "Chelsea FC",
+  "season": "2019/2020",
+  "wins": 20,
+  "losses": 12,
+  "Puesto": 4,
+    "Equipo": "Chelsea FC",
+    "PJ": 38,
+    "Victorias": "53%",
+    "GF": 69,
+    "GC": 54,
+    "DG": 15,
+    "Pts": 66
+},
+{
+  "team_name": "West Ham United FC",
+  "season": "2019/2020",
+  "wins": 10,
+  "losses": 19,
+  "Puesto": 16,
+    "Equipo": "West Ham United FC",
+    "PJ": 38,
+    "Victorias": "26%",
+    "GF": 49,
+    "GC": 62,
+    "DG": -13,
+    "Pts": 39
+},
+{
+  "team_name": "Watford FC",
+  "season": "2019/2020",
+  "wins": 8,
+  "losses": 20,
+  "Puesto": 19,
+    "Equipo": "Watford FC",
+    "PJ": 38,
+    "Victorias": "21%",
+    "GF": 36,
+    "GC": 64,
+    "DG": -28,
+    "Pts": 34
+},
+{
+  "team_name": "Newcastle United FC",
+  "season": "2019/2020",
+  "wins": 11,
+  "losses": 16,
+  "Puesto": 13,
+    "Equipo": "Newcastle United FC",
+    "PJ": 38,
+    "Victorias": "29%",
+    "GF": 38,
+    "GC": 58,
+    "DG": -20,
+    "Pts": 44
+},
+{
+  "team_name": "Aston Villa FC",
+  "season": "2019/2020",
+  "wins": 9,
+  "losses": 21,
+  "Puesto": 17,
+    "Equipo": "Aston Villa FC",
+    "PJ": 38,
+    "Victorias": "24%",
+    "GF": 41,
+    "GC": 67,
+    "DG": -26,
+    "Pts": 35
+},
+{
+  "team_name": "Norwich City FC",
+  "season": "2019/2020",
+  "wins": 5,
+  "losses": 27,
+  "Puesto": 20,
+    "Equipo": "Norwich City FC",
+    "PJ": 38,
+    "Victorias": "13%",
+    "GF": 26,
+    "GC": 75,
+    "DG": -49,
+    "Pts": 21
+},
+{
+  "team_name": "Brighton & Hove Albion FC",
+  "season": "2019/2020",
+  "wins": 9,
+  "losses": 15,
+  "Puesto": 15,
+    "Equipo": "Brighton Hove Albion FC",
+    "PJ": 38,
+    "Victorias": "24%",
+    "GF": 39,
+    "GC": 54,
+    "DG": -15,
+    "Pts": 41
+},
+{
+  "team_name": "Wolverhampton Wanderers FC",
+  "season": "2019/2020",
+  "wins": 15,
+  "losses": 9,
+  "Puesto": 7,
+    "Equipo": "Wolverhampton Wanderers FC",
+    "PJ": 38,
+    "Victorias": "39%",
+    "GF": 51,
+    "GC": 40,
+    "DG": 11,
+    "Pts": 59
+},
+{
+  "team_name": "Sheffield United FC",
+  "season": "2019/2020",
+  "wins": 14,
+  "losses": 12,
+  "Puesto": 9,
+    "Equipo": "Sheffield United FC",
+    "PJ": 38,
+    "Victorias": "37%",
+    "GF": 39,
+    "GC": 39,
+    "DG": 0,
+    "Pts": 54
+},
+{
+  "team_name": "Arsenal FC",
+  "season": "2020/2021",
+  "wins": 18,
+  "losses": 13,
+  "Puesto": 8,
+    "Equipo": "Arsenal FC",
+    "PJ": 38,
+    "Victorias": "47%",
+    "GF": 55,
+    "GC": 39,
+    "DG": 16,
+    "Pts": 61
+},
+{
+  "team_name": "Tottenham Hotspur FC",
+  "season": "2020/2021",
+  "wins": 18,
+  "losses": 12,
+  "Puesto": 7,
+  "Equipo": "Tottenham Hotspur FC",
+  "PJ": 38,
+  "Victorias": "47%",
+  "GF": 68,
+  "GC": 45,
+  "DG": 23,
+  "Pts": 62
+},
+{
+  "team_name": "Manchester City FC",
+  "season": "2020/2021",
+  "wins": 27,
+  "losses": 6,
+  "Puesto": 1,
+    "Equipo": "Manchester City FC",
+    "PJ": 38,
+    "Victorias": "71%",
+    "GF": 83,
+    "GC": 32,
+    "DG": 51,
+    "Pts": 86
+},
+{
+  "team_name": "Leicester City FC",
+  "season": "2020/2021",
+  "wins": 20,
+  "losses": 12,
+  "Puesto": 5,
+    "Equipo": "Leicester City FC",
+    "PJ": 38,
+    "Victorias": "53%",
+    "GF": 68,
+    "GC": 50,
+    "DG": 18,
+    "Pts": 66
+},
+{
+  "team_name": "West Bromwich Albion FC",
+  "season": "2020/2021",
+  "wins": 5,
+  "losses": 22,
+  "Puesto": 19,
+    "Equipo": "West Bromwich Albion FC",
+    "PJ": 38,
+    "Victorias": "13%",
+    "GF": 35,
+    "GC": 76,
+    "DG": -41,
+    "Pts": 26
+},
+{
+  "team_name": "Crystal Palace FC",
+  "season": "2020/2021",
+  "wins": 12,
+  "losses": 18,
+  "Puesto": 14,
+    "Equipo": "Crystal Palace FC",
+    "PJ": 38,
+    "Victorias": "32%",
+    "GF": 41,
+    "GC": 66,
+    "DG": -25,
+    "Pts": 44
+},
+{
+  "team_name": "Everton FC",
+  "season": "2020/2021",
+  "wins": 17,
+  "losses": 13,
+  "Puesto": 10,
+    "Equipo": "Everton FC",
+    "PJ": 38,
+    "Victorias": "45%",
+    "GF": 47,
+    "GC": 48,
+    "DG": -1,
+    "Pts": 59
+},
+{
+  "team_name": "Burnley FC",
+  "season": "2020/2021",
+  "wins": 10,
+  "losses": 19,
+  "Puesto": 17,
+    "Equipo": "Burnley FC",
+    "PJ": 38,
+    "Victorias": "26%",
+    "GF": 33,
+    "GC": 55,
+    "DG": -22,
+    "Pts": 39
+},
+{
+  "team_name": "Southampton FC",
+  "season": "2020/2021",
+  "wins": 12,
+  "losses": 19,
+  "Puesto": 15,
+    "Equipo": "Southampton FC",
+    "PJ": 38,
+    "Victorias": "32%",
+    "GF": 47,
+    "GC": 68,
+    "DG": -21,
+    "Pts": 43
+},
+{
+  "team_name": "Manchester United FC",
+  "season": "2020/2021",
+  "wins": 21,
+  "losses": 6,
+  "Puesto": 2,
+    "Equipo": "Manchester United FC",
+    "PJ": 38,
+    "Victorias": "55%",
+    "GF": 73,
+    "GC": 44,
+    "DG": 29,
+    "Pts": 74
+},
+{
+  "team_name": "Liverpool FC",
+  "season": "2020/2021",
+  "wins": 20,
+  "losses": 9,
+  "Puesto": 3,
+    "Equipo": "Liverpool FC",
+    "PJ": 38,
+    "Victorias": "53%",
+    "GF": 68,
+    "GC": 42,
+    "DG": 26,
+    "Pts": 69
+},
+{
+  "team_name": "Chelsea FC",
+  "season": "2020/2021",
+  "wins": 19,
+  "losses": 9,
+  "Puesto": 4,
+    "Equipo": "Chelsea FC",
+    "PJ": 38,
+    "Victorias": "50%",
+    "GF": 58,
+    "GC": 36,
+    "DG": 22,
+    "Pts": 67
+},
+{
+  "team_name": "West Ham United FC",
+  "season": "2020/2021",
+  "wins": 19,
+  "losses": 11,
+  "Puesto": 6,
+    "Equipo": "West Ham United FC",
+    "PJ": 38,
+    "Victorias": "50%",
+    "GF": 62,
+    "GC": 47,
+    "DG": 15,
+    "Pts": 65
+},
+{
+  "team_name": "Newcastle United FC",
+  "season": "2020/2021",
+  "wins": 12,
+  "losses": 17,
+  "Puesto": 13,
+    "Equipo": "Newcastle United FC",
+    "PJ": 38,
+    "Victorias": "32%",
+    "GF": 46,
+    "GC": 62,
+    "DG": -16,
+    "Pts": 45
+},
+{
+  "team_name": "Aston Villa FC",
+  "season": "2020/2021",
+  "wins": 16,
+  "losses": 15,
+  "Puesto": 11,
+    "Equipo": "Aston Villa FC",
+    "PJ": 38,
+    "Victorias": "42%",
+    "GF": 55,
+    "GC": 46,
+    "DG": 9,
+    "Pts": 55
+},
+{
+  "team_name": "Fulham FC",
+  "season": "2020/2021",
+  "wins": 5,
+  "losses": 20,
+  "Puesto": 18,
+    "Equipo": "Fulham FC",
+    "PJ": 38,
+    "Victorias": "13%",
+    "GF": 27,
+    "GC": 53,
+    "DG": -26,
+    "Pts": 28
+},
+{
+  "team_name": "Brighton & Hove Albion FC",
+  "season": "2020/2021",
+  "wins": 9,
+  "losses": 15,
+  "Puesto": 16,
+    "Equipo": "Brighton Hove Albion FC",
+    "PJ": 38,
+    "Victorias": "24%",
+    "GF": 40,
+    "GC": 46,
+    "DG": -6,
+    "Pts": 41
+},
+{
+  "team_name": "Leeds United FC",
+  "season": "2020/2021",
+  "wins": 18,
+  "losses": 15,
+  "Puesto": 9,
+    "Equipo": "Leeds United FC",
+    "PJ": 38,
+    "Victorias": "47%",
+    "GF": 62,
+    "GC": 54,
+    "DG": 8,
+    "Pts": 59
+},
+{
+  "team_name": "Wolverhampton Wanderers FC",
+  "season": "2020/2021",
+  "wins": 12,
+  "losses": 17,
+  "Puesto": 12,
+    "Equipo": "Wolverhampton Wanderers FC",
+    "PJ": 38,
+    "Victorias": "32%",
+    "GF": 36,
+    "GC": 52,
+    "DG": -16,
+    "Pts": 45
+},
+{
+  "team_name": "Sheffield United FC",
+  "season": "2020/2021",
+  "wins": 7,
+  "losses": 29,
+  "Puesto": 20,
+    "Equipo": "Sheffield United FC",
+    "PJ": 38,
+    "Victorias": "18%",
+    "GF": 20,
+    "GC": 63,
+    "DG": -43,
+    "Pts": 23
+},
+{
+  "team_name": "Arsenal FC",
+  "season": "2021/2022",
+  "wins": 22,
+  "losses": 13,
+  "Puesto": 5,
+    "Equipo": "Arsenal FC",
+    "PJ": 38,
+    "Victorias": "58%",
+    "GF": 61,
+    "GC": 48,
+    "DG": 13,
+    "Pts": 69
+},
+{
+  "team_name": "Tottenham Hotspur FC",
+  "season": "2021/2022",
+  "wins": 22,
+  "losses": 11,
+  "Puesto": 4,
+    "Equipo": "Tottenham Hotspur FC",
+    "PJ": 38,
+    "Victorias": "58%",
+    "GF": 69,
+    "GC": 40,
+    "DG": 29,
+    "Pts": 71
+},
+{
+  "team_name": "Manchester City FC",
+  "season": "2021/2022",
+  "wins": 29,
+  "losses": 3,
+  "Puesto": 1,
+    "Equipo": "Manchester City FC",
+    "PJ": 38,
+    "Victorias": "76%",
+    "GF": 99,
+    "GC": 26,
+    "DG": 73,
+    "Pts": 93
+},
+{
+  "team_name": "Leicester City FC",
+  "season": "2021/2022",
+  "wins": 14,
+  "losses": 14,
+  "Puesto": 8,
+    "Equipo": "Leicester City FC",
+    "PJ": 38,
+    "Victorias": "37%",
+    "GF": 62,
+    "GC": 59,
+    "DG": 3,
+    "Pts": 52
+},
+{
+  "team_name": "Crystal Palace FC",
+  "season": "2021/2022",
+  "wins": 11,
+  "losses": 12,
+  "Puesto": 12,
+    "Equipo": "Crystal Palace FC",
+    "PJ": 38,
+    "Victorias": "29%",
+    "GF": 50,
+    "GC": 46,
+    "DG": 4,
+    "Pts": 48
+},
+{
+  "team_name": "Everton FC",
+  "season": "2021/2022",
+  "wins": 11,
+  "losses": 21,
+  "Puesto": 16,
+    "Equipo": "Everton FC",
+    "PJ": 38,
+    "Victorias": "29%",
+    "GF": 43,
+    "GC": 66,
+    "DG": -23,
+    "Pts": 39
+},
+{
+  "team_name": "Burnley FC",
+  "season": "2021/2022",
+  "wins": 7,
+  "losses": 17,
+  "Puesto": 18,
+    "Equipo": "Burnley FC",
+    "PJ": 38,
+    "Victorias": "18%",
+    "GF": 34,
+    "GC": 53,
+    "DG": -19,
+    "Pts": 35
+},
+{
+  "team_name": "Southampton FC",
+  "season": "2021/2022",
+  "wins": 9,
+  "losses": 16,
+  "Puesto": 15,
+    "Equipo": "Southampton FC",
+    "PJ": 38,
+    "Victorias": "24%",
+    "GF": 43,
+    "GC": 67,
+    "DG": -24,
+    "Pts": 40
+},
+{
+  "team_name": "Manchester United FC",
+  "season": "2021/2022",
+  "wins": 16,
+  "losses": 12,
+  "Puesto": 6,
+    "Equipo": "Manchester United FC",
+    "PJ": 38,
+    "Victorias": "42%",
+    "GF": 57,
+    "GC": 57,
+    "DG": 0,
+    "Pts": 58
+},
+{
+  "team_name": "Liverpool FC",
+  "season": "2021/2022",
+  "wins": 28,
+  "losses": 2,
+  "Puesto": 2,
+    "Equipo": "Liverpool FC",
+    "PJ": 38,
+    "Victorias": "74%",
+    "GF": 94,
+    "GC": 26,
+    "DG": 68,
+    "Pts": 92
+},
+{
+  "team_name": "Chelsea FC",
+  "season": "2021/2022",
+  "wins": 21,
+  "losses": 6,
+  "Puesto": 3,
+    "Equipo": "Chelsea FC",
+    "PJ": 38,
+    "Victorias": "55%",
+    "GF": 76,
+    "GC": 33,
+    "DG": 43,
+    "Pts": 74
+},
+{
+  "team_name": "West Ham United FC",
+  "season": "2021/2022",
+  "wins": 16,
+  "losses": 14,
+  "Puesto": 7,
+    "Equipo": "West Ham United FC",
+    "PJ": 38,
+    "Victorias": "42%",
+    "GF": 60,
+    "GC": 51,
+    "DG": 9,
+    "Pts": 56
+},
+{
+  "team_name": "Watford FC",
+  "season": "2021/2022",
+  "wins": 6,
+  "losses": 27,
+  "Puesto": 19,
+    "Equipo": "Watford FC",
+    "PJ": 38,
+    "Victorias": "16%",
+    "GF": 34,
+    "GC": 77,
+    "DG": -43,
+    "Pts": 23
+},
+{
+  "team_name": "Newcastle United FC",
+  "season": "2021/2022",
+  "wins": 13,
+  "losses": 15,
+  "Puesto": 11,
+    "Equipo": "Newcastle United FC",
+    "PJ": 38,
+    "Victorias": "34%",
+    "GF": 44,
+    "GC": 62,
+    "DG": -18,
+    "Pts": 49
+},
+{
+  "team_name": "Aston Villa FC",
+  "season": "2021/2022",
+  "wins": 13,
+  "losses": 19,
+  "Puesto": 14,
+    "Equipo": "Aston Villa FC",
+    "PJ": 38,
+    "Victorias": "34%",
+    "GF": 52,
+    "GC": 54,
+    "DG": -2,
+    "Pts": 45
+},
+{
+  "team_name": "Norwich City FC",
+  "season": "2021/2022",
+  "wins": 5,
+  "losses": 26,
+  "Puesto": 20,
+    "Equipo": "Norwich City FC",
+    "PJ": 38,
+    "Victorias": "13%",
+    "GF": 23,
+    "GC": 84,
+    "DG": -61,
+    "Pts": 22
+},
+{
+  "team_name": "Brighton & Hove Albion FC",
+  "season": "2021/2022",
+  "wins": 12,
+  "losses": 11,
+  "Puesto": 9,
+    "Equipo": "Brighton Hove Albion FC",
+    "PJ": 38,
+    "Victorias": "32%",
+    "GF": 42,
+    "GC": 44,
+    "DG": -2,
+    "Pts": 51
+},
+{
+  "team_name": "Brentford FC",
+  "season": "2021/2022",
+  "wins": 13,
+  "losses": 18,
+  "Puesto": 13,
+    "Equipo": "Brentford FC",
+    "PJ": 38,
+    "Victorias": "34%",
+    "GF": 48,
+    "GC": 56,
+    "DG": -8,
+    "Pts": 46
+},
+{
+  "team_name": "Leeds United FC",
+  "season": "2021/2022",
+  "wins": 9,
+  "losses": 18,
+  "Puesto": 17,
+    "Equipo": "Leeds United FC",
+    "PJ": 38,
+    "Victorias": "24%",
+    "GF": 42,
+    "GC": 79,
+    "DG": -37,
+    "Pts": 38
+},
+{
+  "team_name": "Wolverhampton Wanderers FC",
+  "season": "2021/2022",
+  "wins": 15,
+  "losses": 17,
+  "Puesto": 10,
+    "Equipo": "Wolverhampton Wanderers FC",
+    "PJ": 38,
+    "Victorias": "39%",
+    "GF": 38,
+    "GC": 43,
+    "DG": -5,
+    "Pts": 51
+},
+{
+  "team_name": "Arsenal FC",
+  "season": "2022/2023",
+  "wins": 26,
+  "losses": 6,
+  "Puesto": 2,
+    "Equipo": "Arsenal FC",
+    "PJ": 38,
+    "Victorias": "68%",
+    "GF": 88,
+    "GC": 43,
+    "DG": 45,
+    "Pts": 84
+},
+{
+  "team_name": "Tottenham Hotspur FC",
+  "season": "2022/2023",
+  "wins": 18,
+  "losses": 14,
+  "Puesto": 8,
+  "Equipo": "Tottenham Hotspur FC",
+  "PJ": 38,
+  "Victorias": "47%",
+  "GF": 70,
+  "GC": 63,
+  "DG": 7,
+  "Pts": 60
+},
+{
+  "team_name": "Manchester City FC",
+  "season": "2022/2023",
+  "wins": 28,
+  "losses": 5,
+  "Puesto": 1,
+    "Equipo": "Manchester City FC",
+    "PJ": 38,
+    "Victorias": "74%",
+    "GF": 94,
+    "GC": 33,
+    "DG": 61,
+    "Pts": 89
+},
+{
+  "team_name": "Leicester City FC",
+  "season": "2022/2023",
+  "wins": 9,
+  "losses": 22,
+  "Puesto": 18,
+    "Equipo": "Leicester City FC",
+    "PJ": 38,
+    "Victorias": "24%",
+    "GF": 51,
+    "GC": 68,
+    "DG": -17,
+    "Pts": 34
+},
+{
+  "team_name": "Crystal Palace FC",
+  "season": "2022/2023",
+  "wins": 11,
+  "losses": 15,
+  "Puesto": 11,
+    "Equipo": "Crystal Palace FC",
+    "PJ": 38,
+    "Victorias": "29%",
+    "GF": 40,
+    "GC": 49,
+    "DG": -9,
+    "Pts": 45
+},
+{
+  "team_name": "Everton FC",
+  "season": "2022/2023",
+  "wins": 8,
+  "losses": 18,
+  "Puesto": 17,
+    "Equipo": "Everton FC",
+    "PJ": 38,
+    "Victorias": "21%",
+    "GF": 34,
+    "GC": 57,
+    "DG": -23,
+    "Pts": 36
+},
+{
+  "team_name": "Southampton FC",
+  "season": "2022/2023",
+  "wins": 6,
+  "losses": 25,
+  "Puesto": 20,
+    "Equipo": "Southampton FC",
+    "PJ": 38,
+    "Victorias": "16%",
+    "GF": 36,
+    "GC": 73,
+    "DG": -37,
+    "Pts": 25
+},
+{
+  "team_name": "AFC Bournemouth",
+  "season": "2022/2023",
+  "wins": 11,
+  "losses": 21,
+  "Puesto": 15,
+    "Equipo": "AFC Bournemouth",
+    "PJ": 38,
+    "Victorias": "29%",
+    "GF": 37,
+    "GC": 71,
+    "DG": -34,
+    "Pts": 39
+},
+{
+  "team_name": "Manchester United FC",
+  "season": "2022/2023",
+  "wins": 23,
+  "losses": 9,
+  "Puesto": 3,
+    "Equipo": "Manchester United FC",
+    "PJ": 38,
+    "Victorias": "61%",
+    "GF": 58,
+    "GC": 43,
+    "DG": 15,
+    "Pts": 75
+},
+{
+  "team_name": "Liverpool FC",
+  "season": "2022/2023",
+  "wins": 19,
+  "losses": 9,
+  "Puesto": 5,
+    "Equipo": "Liverpool FC",
+    "PJ": 38,
+    "Victorias": "50%",
+    "GF": 75,
+    "GC": 47,
+    "DG": 28,
+    "Pts": 67
+},
+{
+  "team_name": "Chelsea FC",
+  "season": "2022/2023",
+  "wins": 11,
+  "losses": 16,
+  "Puesto": 12,
+    "Equipo": "Chelsea FC",
+    "PJ": 38,
+    "Victorias": "29%",
+    "GF": 38,
+    "GC": 47,
+    "DG": -9,
+    "Pts": 44
+},
+{
+  "team_name": "West Ham United FC",
+  "season": "2022/2023",
+  "wins": 11,
+  "losses": 20,
+  "Puesto": 14,
+    "Equipo": "West Ham United FC",
+    "PJ": 38,
+    "Victorias": "29%",
+    "GF": 42,
+    "GC": 55,
+    "DG": -13,
+    "Pts": 40
+},
+{
+  "team_name": "Newcastle United FC",
+  "season": "2022/2023",
+  "wins": 19,
+  "losses": 5,
+  "Puesto": 4,
+    "Equipo": "Newcastle United FC",
+    "PJ": 38,
+    "Victorias": "50%",
+    "GF": 68,
+    "GC": 33,
+    "DG": 35,
+    "Pts": 71
+  
+},
+{
+  "team_name": "Aston Villa FC",
+  "season": "2022/2023",
+  "wins": 18,
+  "losses": 13,
+  "Puesto": 7,
+    "Equipo": "Aston Villa FC",
+    "PJ": 38,
+    "Victorias": "47%",
+    "GF": 51,
+    "GC": 46,
+    "DG": 5,
+    "Pts": 61
+},
+{
+  "team_name": "Fulham FC",
+  "season": "2022/2023",
+  "wins": 15,
+  "losses": 16,
+  "Puesto": 10,
+    "Equipo": "Fulham FC",
+    "PJ": 38,
+    "Victorias": "39%",
+    "GF": 55,
+    "GC": 53,
+    "DG": 2,
+    "Pts": 52
+},
+{
+  "team_name": "Brighton & Hove Albion FC",
+  "season": "2022/2023",
+  "wins": 18,
+  "losses": 12,
+  "Puesto": 6,
+    "Equipo": "Brighton Hove Albion FC",
+    "PJ": 38,
+    "Victorias": "47%",
+    "GF": 72,
+    "GC": 53,
+    "DG": 19,
+    "Pts": 62
+},
+{
+  "team_name": "Nottingham Forest FC",
+  "season": "2022/2023",
+  "wins": 9,
+  "losses": 18,
+  "Puesto": 16,
+    "Equipo": "Nottingham Forest FC",
+    "PJ": 38,
+    "Victorias": "24%",
+    "GF": 38,
+    "GC": 68,
+    "DG": -30,
+    "Pts": 38
+},
+{
+  "team_name": "Brentford FC",
+  "season": "2022/2023",
+  "wins": 15,
+  "losses": 9,
+  "Puesto": 9,
+    "Equipo": "Brentford FC",
+    "PJ": 38,
+    "Victorias": "39%",
+    "GF": 58,
+    "GC": 46,
+    "DG": 12,
+    "Pts": 59
+},
+{
+  "team_name": "Leeds United FC",
+  "season": "2022/2023",
+  "wins": 7,
+  "losses": 21,
+  "Puesto": 19,
+    "Equipo": "Leeds United FC",
+    "PJ": 38,
+    "Victorias": "18%",
+    "GF": 48,
+    "GC": 78,
+    "DG": -30,
+    "Pts": 31
+},
+{
+  "team_name": "Wolverhampton Wanderers FC",
+  "season": "2022/2023",
+  "wins": 11,
+  "losses": 19,
+  "Puesto": 13,
+    "Equipo": "Wolverhampton Wanderers FC",
+    "PJ": 38,
+    "Victorias": "29%",
+    "GF": 31,
+    "GC": 58,
+    "DG": -27,
+    "Pts": 41
+},
+{
+  "team_name": "Arsenal FC",
+  "season": "2023/2024",
+  "wins": 23,
+  "losses": 5,
+  "Puesto": 2,
+    "Equipo": "Arsenal FC",
+    "PJ": 36,
+    "Victorias": "72%",
+    "GF": 88,
+    "GC": 28,
+    "DG": 60,
+    "Pts": 83
+},
+{
+  "team_name": "Tottenham Hotspur FC",
+  "season": "2023/2024",
+  "wins": 18,
+  "losses": 8,
+  "Puesto": 5,
+    "Equipo": "Tottenham Hotspur FC",
+    "PJ": 36,
+    "Victorias": "53%",
+    "GF": 71,
+    "GC": 59,
+    "DG": 12,
+    "Pts": 63
+},
+{
+  "team_name": "Manchester City FC",
+  "season": "2023/2024",
+  "wins": 22,
+  "losses": 3,
+  "Puesto": 1,
+    "Equipo": "Manchester City FC",
+    "PJ": 36,
+    "Victorias": "72%",
+    "GF": 91,
+    "GC": 33,
+    "DG": 58,
+    "Pts": 85
+},
+{
+  "team_name": "Crystal Palace FC",
+  "season": "2023/2024",
+  "wins": 9,
+  "losses": 15,
+  "Puesto": 13,
+    "Equipo": "Crystal Palace FC",
+    "PJ": 37,
+    "Victorias": "32%",
+    "GF": 52,
+    "GC": 58,
+    "DG": -6,
+    "Pts": 46
+},
+{
+  "team_name": "Everton FC",
+  "season": "2023/2024",
+  "wins": 10,
+  "losses": 15,
+  "Puesto": 11,
+  "Equipo": "Everton FC",
+  "PJ": 37,
+  "Victorias": "35%",
+  "GF": 39,
+  "GC": 49,
+  "DG": -10,
+  "Pts": 48
+},
+{
+  "team_name": "Burnley FC",
+  "season": "2023/2024",
+  "wins": 5,
+  "losses": 21,
+  "Puesto": 19,
+    "Equipo": "Burnley FC",
+    "PJ": 37,
+    "Victorias": "14%",
+    "GF": 40,
+    "GC": 76,
+    "DG": -36,
+    "Pts": 24
+},
+{
+  "team_name": "AFC Bournemouth",
+  "season": "2023/2024",
+  "wins": 11,
+  "losses": 13,
+  "Puesto": 12,
+    "Equipo": "AFC Bournemouth",
+    "PJ": 37,
+    "Victorias": "35%",
+    "GF": 53,
+    "GC": 65,
+    "DG": -12,
+    "Pts": 48
+},
+{
+  "team_name": "Manchester United FC",
+  "season": "2023/2024",
+  "wins": 15,
+  "losses": 12,
+  "Puesto": 8,
+    "Equipo": "Manchester United FC",
+    "PJ": 35,
+    "Victorias": "46%",
+    "GF": 52,
+    "GC": 55,
+    "DG": -3,
+    "Pts": 54
+},
+{
+  "team_name": "Liverpool FC",
+  "season": "2023/2024",
+  "wins": 22,
+  "losses": 3,
+  "Puesto": 3,
+    "Equipo": "Liverpool FC",
+    "PJ": 36,
+    "Victorias": "64%",
+    "GF": 81,
+    "GC": 38,
+    "DG": 43,
+    "Pts": 78
+},
+{
+  "team_name": "Chelsea FC",
+  "season": "2023/2024",
+  "wins": 13,
+  "losses": 10,
+  "Puesto": 7,
+    "Equipo": "Chelsea FC",
+    "PJ": 36,
+    "Victorias": "44%",
+    "GF": 73,
+    "GC": 61,
+    "DG": 12,
+    "Pts": 57
+},
+{
+  "team_name": "West Ham United FC",
+  "season": "2023/2024",
+  "wins": 13,
+  "losses": 12,
+  "Puesto": 9,
+    "Equipo": "West Ham United FC",
+    "PJ": 37,
+    "Victorias": "38%",
+    "GF": 59,
+    "GC": 71,
+    "DG": -12,
+    "Pts": 52
+},
+{
+  "team_name": "Newcastle United FC",
+  "season": "2023/2024",
+  "wins": 15,
+  "losses": 12,
+  "Puesto": 6,
+    "Equipo": "Newcastle United FC",
+    "PJ": 36,
+    "Victorias": "47%",
+    "GF": 79,
+    "GC": 57,
+    "DG": 22,
+    "Pts": 57
+},
+{
+  "team_name": "Aston Villa FC",
+  "season": "2023/2024",
+  "wins": 20,
+  "losses": 8,
+  "Puesto": 4,
+    "Equipo": "Aston Villa FC",
+    "PJ": 36,
+    "Victorias": "56%",
+    "GF": 73,
+    "GC": 53,
+    "DG": 20,
+    "Pts": 67
+},
+{
+  "team_name": "Fulham FC",
+  "season": "2023/2024",
+  "wins": 12,
+  "losses": 16,
+  "Puesto": 15,
+    "Equipo": "Fulham FC",
+    "PJ": 37,
+    "Victorias": "32%",
+    "GF": 51,
+    "GC": 59,
+    "DG": -8,
+    "Pts": 44
+},
+{
+  "team_name": "Brighton & Hove Albion FC",
+  "season": "2023/2024",
+  "wins": 11,
+  "losses": 10,
+  "Puesto": 10,
+    "Equipo": "Brighton Hove Albion FC",
+    "PJ": 36,
+    "Victorias": "33%",
+    "GF": 54,
+    "GC": 58,
+    "DG": -4,
+    "Pts": 48
+},
+{
+  "team_name": "Nottingham Forest FC",
+  "season": "2023/2024",
+  "wins": 7,
+  "losses": 18,
+  "Puesto": 17,
+    "Equipo": "Nottingham Forest FC",
+    "PJ": 37,
+    "Victorias": "22%",
+    "GF": 47,
+    "GC": 66,
+    "DG": -19,
+    "Pts": 33
+},
+{
+  "team_name": "Brentford FC",
+  "season": "2023/2024",
+  "wins": 9,
+  "losses": 17,
+  "Puesto": 16,
+    "Equipo": "Brentford FC",
+    "PJ": 37,
+    "Victorias": "27%",
+    "GF": 54,
+    "GC": 61,
+    "DG": -7,
+    "Pts": 39
+},
+{
+  "team_name": "Wolverhampton Wanderers FC",
+  "season": "2023/2024",
+  "wins": 12,
+  "losses": 14,
+  "Puesto": 14,
+    "Equipo": "Wolverhampton Wanderers FC",
+    "PJ": 37,
+    "Victorias": "35%",
+    "GF": 50,
+    "GC": 63,
+    "DG": -13,
+    "Pts": 46
+},
+{
+  "team_name": "Sheffield United FC",
+  "season": "2023/2024",
+  "wins": 3,
+  "losses": 23,
+  "Puesto": 20,
+    "Equipo": "Sheffield United FC",
+    "PJ": 37,
+    "Victorias": "8%",
+    "GF": 35,
+    "GC": 101,
+    "DG": -66,
+    "Pts": 16
+},
+{
+  "team_name": "Luton Town FC",
+  "season": "2023/2024",
+  "wins": 6,
+  "losses": 21,
+  "Puesto": 18,
+  "Equipo": "Luton Town FC",
+  "PJ": 37,
+  "Victorias": "16%",
+  "GF": 50,
+  "GC": 81,
+  "DG": -31,
+  "Pts": 26
+}
+]}
